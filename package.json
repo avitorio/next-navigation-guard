@@ -1,5 +1,5 @@
 {
-  "name": "next-navigation-guard",
+  "name": "@outstatic/next-navigation-guard",
   "version": "0.1.3",
   "description": "Navigation Guard for Next.js App Router and Pages Router.",
   "main": "./dist/index.js",
