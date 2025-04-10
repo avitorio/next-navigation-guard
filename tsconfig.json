@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
-    "target": "es2019", // minimum Next v12 -> Node 12.22.0 w/ ESM support
+    "target": "es2019",
     "lib": ["es2019", "dom", "dom.iterable"],
     "types": [],
     "jsx": "react",
-    "module": "node16",
-    "moduleResolution": "node16",
+    "module": "ESNext",
+    "moduleResolution": "node",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
